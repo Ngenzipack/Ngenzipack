@@ -1,3 +1,4 @@
+<img> </img>
 <h1>Hi, I'm Patrick! <br/>Programmer, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
 
 <h2>Cybersecurity Projects</h2>
