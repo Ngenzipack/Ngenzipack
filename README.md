@@ -1,4 +1,5 @@
-<img> </img>
+<img src="https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" align="center" style="width: 100%" style="height: 10%" />
+
 <h1>Hi, I'm Patrick! <br/>Programmer, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
 
 <h2>Cybersecurity Projects</h2>
@@ -9,8 +10,6 @@
 
 
 <h2>👨‍💻 Programming Projects:</h2>
-
-
 
 
 
