@@ -1,11 +1,13 @@
-<img src="https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" align="center" style="width: 100%" style="height: 10%" />
+<img src="https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif"/>
 
-<h1>Hi, I'm Patrick! <br/>Programmer, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
 
-<h2>Cybersecurity Projects</h2>
+- 🧠 I'm currently improving my skills.
+- 🗃 I'm currently working on development software, packet sniffing and splunk
+- 💬 Ask me about **Cybersecurity**, **Software Development**, **Classical music Piano**, 
+- 📫 How to reach me: E-mail: ngenzipack@gmail.com
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  -// [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 
@@ -14,6 +16,10 @@
 
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  -// [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <details close>
 
