@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif"/>
-
 
 - 🧠 I'm currently improving my skills.
 - 🗃 I'm currently working on development software, packet sniffing and splunk
