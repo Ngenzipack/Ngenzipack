@@ -1,10 +1,11 @@
 CYBERSECURITY AND IT PROFESSIONAL
 
 <p>
-                                                                                          ------------
+                                                                                         
   “IAM & Cloud Security Specialist | Network Hardening & Cybersecurity Labs | Python & PowerShell Automation | Security+ & SC-300 Certified | Showcasing practical projects in network defense, Azure IAM, and secure web applications.”
-                                                                                          -------------
+                                                                                       
 </p>
+
 
 
 <h2>👨‍💻 Programming Projects:</h2>
