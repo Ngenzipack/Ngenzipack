@@ -1,8 +1,6 @@
 CYBERSECURITY AND IT PROFESSIONAL
 
-- 🗃 I'm currently working on development software, packet sniffing and splunk
-- 💬 Ask me about **Cybersecurity**, **Software Development**, **Classical music Piano** 
-- 📫 How to reach me: E-mail: ngenzipack@gmail.com
+“IAM & Cloud Security Specialist | Network Hardening & Cybersecurity Labs | Python & PowerShell Automation | Security+ & SC-300 Certified | Showcasing practical projects in network defense, Azure IAM, and secure web applications.”
 ---
 
 
