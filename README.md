@@ -13,7 +13,7 @@ I design and automate secure identity and cloud workflows focused on practical d
 
 ## 🏅 Certifications
 
-[![CompTIA Security+ ce (Earned)](https://img.shields.io/badge/CompTIA-Security%2B%20ce%20(Earned)-D32F2F?style=for-the-badge&logo=shield&logoColor=white)](https://www.credly.com/badges/d215b8e4-3f70-4885-9ca8-91583c0b7b5a/public_url)
+[![CompTIA Security+ ce (Earned)](https://img.shields.io/badge/CompTIA-Security%2B%20ce%20(Earned)-D32F2F?style=for-the-badge&logo=shield&logoColor=white)](https://www.credly.com/badges/d215b8e4-3f70-4885-9ca8-91583c0b7b5a)
 ![Microsoft SC-300 (In Progress)](https://img.shields.io/badge/Microsoft-SC--300%20(In%20Progress)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Acquired Skills (CompTIA Security+ ce)
