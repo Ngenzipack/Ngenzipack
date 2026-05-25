@@ -1,39 +1,19 @@
-CYBERSECURITY AND IT PROFESSIONAL
+# Ngenzi Patrick
 
-<p>
-                                                                                         
-  “IAM & Cloud Security Specialist | Network Hardening & Cybersecurity Labs | Python & PowerShell Automation | Security+ & SC-300 Certified | Showcasing practical projects in network defense, Azure IAM, and secure web applications.”
-                                                                                       
-</p>
+Cybersecurity and IT Professional
 
+IAM & Cloud Security Specialist focused on network hardening, cybersecurity labs, and automation with Python and PowerShell. Security+ and SC-300 certified.
 
+## Featured Projects
 
-<h2>👨‍💻 Programming Projects:</h2>
+- [fenrir2608/goGreen](https://github.com/fenrir2608/goGreen) - Utility for controlled historical commit generation experiments.
+- [Ngenzipack/portfolio](https://github.com/Ngenzipack/portfolio) - Personal portfolio site and project showcase.
+- [Ngenzipack/Azure-IAM-Security-Architecture](https://github.com/Ngenzipack/Azure-IAM-Security-Architecture) - IAM and cloud security architecture notes and implementation work.
+- [Ngenzipack/Budget-App](https://github.com/Ngenzipack/Budget-App) - Budget tracking app project.
 
+## Focus Areas
 
-
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  -// [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-
-<details close>
-
-<div>
-
-
-<!--
-**Ngenzipack/Ngenzipack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Identity and Access Management (Azure AD / Entra)
+- Cloud and Network Security
+- Security Automation and Tooling
+- Secure Web Application Practices
