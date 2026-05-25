@@ -4,9 +4,9 @@ I design and automate secure identity and cloud workflows focused on practical d
 
 ## 🧭 Project Navigation
 
+[![Azure IAM Security Architecture](https://img.shields.io/badge/Azure%20IAM%20Security%20Architecture-1E88E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/Azure-IAM-Security-Architecture)
 [![IAM Policy Automation](https://img.shields.io/badge/IAM%20Policy%20Automation-0B3D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/iam-policy-automation)
 [![Entra CA Baselines](https://img.shields.io/badge/Entra%20CA%20Baselines-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/entra-conditional-access-baselines)
-[![Azure IAM Security Architecture](https://img.shields.io/badge/Azure%20IAM%20Security%20Architecture-1E88E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/Azure-IAM-Security-Architecture)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/portfolio)
 [![Graph Activity](https://img.shields.io/badge/Graph%20Activity-2E7D32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/graph-activity)
 [![Budget App](https://img.shields.io/badge/Budget%20App-6A1B9A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/Budget-App)
