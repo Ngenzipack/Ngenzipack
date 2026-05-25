@@ -2,34 +2,32 @@
 
 <p align="center">
   <b>Cloud Identity and Cybersecurity Engineer</b><br/>
-  IAM | Network Hardening | Security Automation
+  IAM | Cloud Security | Network Defense | Security Automation
 </p>
 
 <p align="center">
-  Security+ and SC-300 certified. Building secure, practical systems with Azure/Entra, Python, and PowerShell.
+  Security+ and SC-300 certified. Building secure and practical systems with Azure/Entra, Python, and PowerShell.
 </p>
 
-## Professional Snapshot
+## GitHub Contribution Activity
 
-| Area | Details |
-| --- | --- |
-| GitHub Activity | **1,307 contributions in the last year** (as of **May 25, 2026**) |
-| Core Focus | IAM architecture, cloud security, network defense |
-| Tooling | Python, PowerShell, GitHub Actions, Linux |
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ngenzipack&theme=github-compact&hide_border=true&area=true" alt="Ngenzipack contribution activity graph" />
+</p>
 
-## Contribution Graph
+<p align="center">
+  <a href="https://github.com/Ngenzipack">View full activity on GitHub profile</a>
+</p>
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Ngenzipack)
+## Professional Focus
 
-## Impact and Work
-
-- [fenrir2608/goGreen](https://github.com/fenrir2608/goGreen) - Controlled historical commit automation for contribution shaping.
-- [Ngenzipack/portfolio](https://github.com/Ngenzipack/portfolio) - Portfolio and professional showcase.
-- [Ngenzipack/Azure-IAM-Security-Architecture](https://github.com/Ngenzipack/Azure-IAM-Security-Architecture) - IAM and cloud security design and implementation.
-- [Ngenzipack/Budget-App](https://github.com/Ngenzipack/Budget-App) - Application project with practical development workflow.
+- Identity and Access Management (Azure AD / Entra)
+- Cloud security architecture and hardening
+- Security automation workflows with Python and PowerShell
+- Secure development and operational security practices
 
 ## Current Priorities
 
-- Strengthen cloud IAM posture and least-privilege patterns.
-- Build repeatable security automation workflows.
-- Expand real-world security labs and architecture documentation.
+- Improve least-privilege IAM implementation patterns.
+- Expand practical security labs and architecture documentation.
+- Strengthen automated security checks across development workflows.
