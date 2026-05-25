@@ -13,9 +13,13 @@
 
 | Area | Details |
 | --- | --- |
-| GitHub Activity | **1,306 contributions in the last year** (as of **May 25, 2026**) |
+| GitHub Activity | **1,307 contributions in the last year** (as of **May 25, 2026**) |
 | Core Focus | IAM architecture, cloud security, network defense |
 | Tooling | Python, PowerShell, GitHub Actions, Linux |
+
+## Contribution Graph
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Ngenzipack)
 
 ## Impact and Work
 
