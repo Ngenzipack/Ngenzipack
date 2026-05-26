@@ -5,6 +5,7 @@ I design and automate secure identity and cloud workflows focused on practical d
 ## 🧭 Project Navigation
 
 [![Azure IAM Security Architecture](https://img.shields.io/badge/Azure%20IAM%20Security%20Architecture-1E88E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/Azure-IAM-Security-Architecture)
+[![Intelligent Security Alert Triage Engine](https://img.shields.io/badge/Intelligent%20Security%20Alert%20Triage%20Engine-C62828?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/intelligent-security-alert-triage-engine)
 [![IAM Policy Automation](https://img.shields.io/badge/IAM%20Policy%20Automation-0B3D91?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/iam-policy-automation)
 [![Entra CA Baselines](https://img.shields.io/badge/Entra%20CA%20Baselines-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/entra-conditional-access-baselines)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ngenzipack/portfolio)
@@ -33,6 +34,9 @@ I design and automate secure identity and cloud workflows focused on practical d
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-2E7D32?style=for-the-badge&logo=datadog&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-1B5E20?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Ollama and LLaMA 3](https://img.shields.io/badge/Ollama%20%2B%20LLaMA%203-111111?style=for-the-badge&logo=llama&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-A52714?style=for-the-badge&logo=target&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-E53935?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -42,7 +46,7 @@ I design and automate secure identity and cloud workflows focused on practical d
 
 ## 🔐 Current Focus
 
-Currently building least-privilege IAM automation workflows for Azure/Entra environments using Python and PowerShell.
+Currently building least-privilege IAM automation workflows for Azure/Entra and AI-assisted SOC alert triage with Python, Streamlit, and Ollama/LLaMA 3.
 
 ## 🌐 Connect
 
